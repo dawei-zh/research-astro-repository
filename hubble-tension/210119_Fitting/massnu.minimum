@@ -1,0 +1,33 @@
+ -log(Like) = 504.1382954182755
+  chi-sq    = 1008.276590836551
+
+    1  3.049379960e+00   logA                                       \log(10^{10} A_\mathrm{s})
+    3  9.571560763e-01   n_s                                        n_\mathrm{s}
+    4  1.041672231e+00   theta_s_1e2                                100\theta_\mathrm{s}
+    7  2.208036432e-02   omega_b                                    \Omega_\mathrm{b} h^2
+    8  1.227069124e-01   omega_cdm                                  omega\ cdm
+    9  1.437835943e-01   m_ncdm                                     m_\mathrm{ncdm}
+   14  5.403994828e-02   tau_reio                                   \tau_\mathrm{reio}
+   24  1.000735493e+00   A_planck                                   y_\mathrm{cal}
+
+
+    2  2.110225612e-09   A_s                                        A_\mathrm{s}
+    6  62.83426          H0                                         H_0
+   10  3.784519289e-01   Omega_m                                    \Omega_\mathrm{m}
+   11  1.494182799e-01   omegamh2                                   \Omega_\mathrm{m} h^2
+   12  6.214852270e-01   Omega_Lambda                               \Omega_\Lambda
+   13  2.451894846e-01   YHe                                        Y_\mathrm{P}
+   15  7.813247681e+00   z_reio                                     z_\mathrm{re}
+   16  7.374847156e-01   sigma8                                     \sigma_8
+   17  9.303680153e-01   s8h5                                       \sigma_8/h^{0.5}
+   18  4.536891419e-01   s8omegamp5                                 \sigma_8 \Omega_\mathrm{m}^{0.5}
+   19  5.784365201e-01   s8omegamp25                                \sigma_8 \Omega_\mathrm{m}^{0.25}
+   20  2.110225612e+00   A                                          10^9 A_\mathrm{s}
+   21  1.894045410e+00   clamp                                      10^9 A_\mathrm{s} e^{-2\tau}
+   22  1.403916333e+01   age                                        {\rm{Age}}/\mathrm{Gyr}
+   23  1.466318271e+02   rs_drag                                    r_\mathrm{drag}
+   25  1.021608539e+03   chi2__CMB                                  \chi^2_\mathrm{CMB}
+   26  2.415666539e+01   chi2__planck_2018_lowl.TT                  \chi^2_{\rm planck\ 2018\ lowl.TT}
+   27  3.965259650e+02   chi2__planck_2018_lowl.EE                  \chi^2_{\rm planck\ 2018\ lowl.EE}
+   28  5.913997330e+02   chi2__planck_2018_highl_plik.TTTEEE_lite   \chi^2_{\rm planck\ 2018\ highl\ plik.TTTEEE\ lite}
+   29  9.526176062e+00   chi2__planck_2018_lensing.clik             \chi^2_{\rm planck\ 2018\ lensing.clik}

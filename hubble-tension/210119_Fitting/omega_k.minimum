@@ -1,0 +1,34 @@
+ -log(Like) = 522.1629065275223
+  chi-sq    = 1044.3258130550446
+
+    1  3.039877656e+00   logA                                       \log(10^{10} A_\mathrm{s})
+    3  9.841374388e-01   n_s                                        n_\mathrm{s}
+    4  1.042468017e+00   theta_s_1e2                                100\theta_\mathrm{s}
+    7  2.302620468e-02   omega_b                                    \Omega_\mathrm{b} h^2
+    8  1.125470303e-01   omega_cdm                                  \Omega_\mathrm{c} h^2
+    9  -5.523327779e-02  Omega_k                                    \Omega_\mathrm{K}
+   15  5.986084829e-02   tau_reio                                   \tau_\mathrm{reio}
+   25  1.001344731e+00   A_planck                                   y_\mathrm{cal}
+
+   12  0.06              m_ncdm                                     m\ ncdm
+
+    2  2.090268577e-09   A_s                                        A_\mathrm{s}
+    6  52.90527          H0                                         H_0
+   10  4.866700537e-01   Omega_m                                    \Omega_\mathrm{m}
+   11  1.362173709e-01   omegamh2                                   \Omega_\mathrm{m} h^2
+   13  5.684338474e-01   Omega_Lambda                               \Omega_\Lambda
+   14  2.456624084e-01   YHe                                        Y_\mathrm{P}
+   16  7.791488647e+00   z_reio                                     z_\mathrm{re}
+   17  7.583939598e-01   sigma8                                     \sigma_8
+   18  1.042666446e+00   s8h5                                       \sigma_8/h^{0.5}
+   19  5.290688316e-01   s8omegamp5                                 \sigma_8 \Omega_\mathrm{m}^{0.5}
+   20  6.334371367e-01   s8omegamp25                                \sigma_8 \Omega_\mathrm{m}^{0.25}
+   21  2.090268577e+00   A                                          10^9 A_\mathrm{s}
+   22  1.854417938e+00   clamp                                      10^9 A_\mathrm{s} e^{-2\tau}
+   23  1.567608146e+01   age                                        {\rm{Age}}/\mathrm{Gyr}
+   24  1.483684930e+02   rs_drag                                    r_\mathrm{drag}
+   26  1.058265915e+03   chi2__CMB                                  \chi^2_\mathrm{CMB}
+   27  2.059686266e+01   chi2__planck_2018_lowl.TT                  \chi^2_{\rm planck\ 2018\ lowl.TT}
+   28  3.968094874e+02   chi2__planck_2018_lowl.EE                  \chi^2_{\rm planck\ 2018\ lowl.EE}
+   29  5.933970929e+02   chi2__planck_2018_highl_plik.TTTEEE_lite   \chi^2_{\rm planck\ 2018\ highl\ plik.TTTEEE\ lite}
+   30  4.746247256e+01   chi2__planck_2018_lensing.clik             \chi^2_{\rm planck\ 2018\ lensing.clik}
